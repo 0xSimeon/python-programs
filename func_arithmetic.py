@@ -11,14 +11,14 @@ def arithmetic_mean():
         z = str(i) 
         print (str('#' + z ))
         a.append(b) #adds the num to the empty list created earlier
-        ar = int(sum(a) / len(a))
+        ar = int(sum(a) / len(a)) 
         
     print('The Arithmetic mean is ', ar)
         
         
         
 
-arithmetic_mean()
+arithmetic_mean() #calling the function
 
 
     
